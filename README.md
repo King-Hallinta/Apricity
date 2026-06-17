@@ -7,10 +7,10 @@ It helps authors manage the parts around the manuscript: characters, locations, 
 Apricity is not a text editor.
 
 ## Requirements
-- C++20
-- wxWidgets 3.3
-- Premake5
-- Visual Studio 2026
+* C++20
+* wxWidgets 3.3
+* Premake5
+* Visual Studio 2026
 
 ## Building
 
